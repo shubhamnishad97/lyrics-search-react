@@ -34,7 +34,7 @@ class Lyrics extends Component{
 
     render() {
     	const { track, lyrics } = this.state;
-    	console.log(track)
+    	//console.log(track)
         if(track=== undefined || 
         	lyrics===undefined || 
         	Object.keys(track).length===0 || 
