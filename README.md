@@ -2,6 +2,9 @@
 Simple react app. Find lyrics of songs using Musixmatch api
 
 Site: https://lyrics-search-react.netlify.com/
+
+<img src="screenshots/main-g.png" width="600">
+<img src="screenshots/lyrics.png" >
  
 I made this project to get familiar with react. Context-api is used instead of redux as the project is simple. Bootstrap-MD is used for styling. Axios is used for making all the requests.
  
