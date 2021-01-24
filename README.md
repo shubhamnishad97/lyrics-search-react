@@ -1,7 +1,7 @@
 # Lyrics Search React
 Simple react app to find lyrics of your favourite songs using Musixmatch api.
 
-Site: https://lyrics-search-react.netlify.com/
+Site: https://lyrics1.netlify.app/
 
 <img src="screenshots/main-g.png" width="600">
 <img src="screenshots/lyrics.png" >
@@ -18,4 +18,4 @@ I made this project to get familiar with react. Context-api is used instead of r
 This react app can be developed into a full fledged music search engine. Musixmatch api has many functions which can be used to make more a complete application.
 
 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/05dcc1d1-ac0a-4679-b6cd-031fd2f56430/deploy-status)](https://app.netlify.com/sites/lyrics-search-react/deploys)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/05dcc1d1-ac0a-4679-b6cd-031fd2f56430/deploy-status)](https://app.netlify.com/sites/lyrics1/deploys)
