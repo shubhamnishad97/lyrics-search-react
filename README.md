@@ -1,5 +1,5 @@
-# lyrics-search-react
-Simple react app. Find lyrics of songs using Musixmatch api
+# Lyrics Search React
+Simple react app to find lyrics of your favourite songs using Musixmatch api.
 
 Site: https://lyrics-search-react.netlify.com/
 
